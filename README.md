@@ -7,6 +7,10 @@ Welcome to the Vrinda Store Data Analysis project! This repository showcases an 
 ## Dataset
 The dataset at the core of this project encapsulates intricate sales information from Vrinda Store. With meticulously curated data from various online marketplaces, this dataset provides a comprehensive overview of Vrinda Store's business operations.
 
+# Dataset Sample
+<img width="1641" alt="image" src="https://github.com/pushpakrk/Vrinda-Store-Data-Analysis/assets/93335175/c7d05db5-2574-4ad4-bb19-4b6eaaff2246">
+
+
 ## Objectives
 The primary objective of this project is to meticulously craft an annual sales report for the year 2022. The insights drawn from this report will empower Vrinda Store to fathom customer preferences, identify trends, and lay the groundwork for achieving even greater sales success in 2023.
 
@@ -21,7 +25,7 @@ Throughout this analysis, i've addressed a multitude of key questions, including
 - Discerning the most influential sales channel propelling the growth.
 - Pinpointing the highest-selling product categories that have captured consumer interest.
 
-# Dashboard
+## Dashboard
 
 <img width="1484" alt="image" src="https://github.com/pushpakrk/Vrinda-Store-Data-Analysis/assets/93335175/9bcba66d-18f2-4e28-8114-6652cc063376">
 
