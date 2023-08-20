@@ -21,3 +21,6 @@ Throughout this analysis, i've addressed a multitude of key questions, including
 - Discerning the most influential sales channel propelling the growth.
 - Pinpointing the highest-selling product categories that have captured consumer interest.
 
+# Dashboard
+
+<img width="1484" alt="image" src="https://github.com/pushpakrk/Vrinda-Store-Data-Analysis/assets/93335175/9bcba66d-18f2-4e28-8114-6652cc063376">
