@@ -8,7 +8,8 @@ Welcome to the Vrinda Store Data Analysis project! This repository showcases an 
 The dataset at the core of this project encapsulates intricate sales information from Vrinda Store. With meticulously curated data from various online marketplaces, this dataset provides a comprehensive overview of Vrinda Store's business operations.
 
 # Dataset Sample
-<img width="1641" alt="image" src="https://github.com/pushpakrk/Vrinda-Store-Data-Analysis/assets/93335175/c7d05db5-2574-4ad4-bb19-4b6eaaff2246">
+<img width="1602" alt="image" src="https://github.com/pushpakrk/Vrinda-Store-Data-Analysis/assets/93335175/2ffa3edd-74ab-46df-a11b-7fc63769af1e">
+
 
 
 ## Objectives
